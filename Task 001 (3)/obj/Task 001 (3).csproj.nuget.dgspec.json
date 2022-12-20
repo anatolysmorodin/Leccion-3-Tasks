@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anatolysmorodin/Desktop/Block 3 (lesson 1)/Block-3-lesson-1-/LESSON-3-/Task 001 (3)/Task 001 (3).csproj": {}
+    "/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/Task 001 (3).csproj": {}
   },
   "projects": {
-    "/Users/anatolysmorodin/Desktop/Block 3 (lesson 1)/Block-3-lesson-1-/LESSON-3-/Task 001 (3)/Task 001 (3).csproj": {
+    "/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/Task 001 (3).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anatolysmorodin/Desktop/Block 3 (lesson 1)/Block-3-lesson-1-/LESSON-3-/Task 001 (3)/Task 001 (3).csproj",
+        "projectUniqueName": "/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/Task 001 (3).csproj",
         "projectName": "Task 001 (3)",
-        "projectPath": "/Users/anatolysmorodin/Desktop/Block 3 (lesson 1)/Block-3-lesson-1-/LESSON-3-/Task 001 (3)/Task 001 (3).csproj",
+        "projectPath": "/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/Task 001 (3).csproj",
         "packagesPath": "/Users/anatolysmorodin/.nuget/packages/",
-        "outputPath": "/Users/anatolysmorodin/Desktop/Block 3 (lesson 1)/Block-3-lesson-1-/LESSON-3-/Task 001 (3)/obj/",
+        "outputPath": "/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anatolysmorodin/.nuget/NuGet/NuGet.Config"

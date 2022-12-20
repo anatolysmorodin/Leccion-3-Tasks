@@ -1,0 +1,15 @@
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/bin/Debug/net7.0/Task 001 (3)
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/bin/Debug/net7.0/Task 001 (3).deps.json
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/bin/Debug/net7.0/Task 001 (3).runtimeconfig.json
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/bin/Debug/net7.0/Task 001 (3).dll
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/bin/Debug/net7.0/Task 001 (3).pdb
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/Task 001 (3).csproj.AssemblyReference.cache
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/Task 001 (3).GeneratedMSBuildEditorConfig.editorconfig
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/Task 001 (3).AssemblyInfoInputs.cache
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/Task 001 (3).AssemblyInfo.cs
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/Task 001 (3).csproj.CoreCompileInputs.cache
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/Task 001 (3).dll
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/refint/Task 001 (3).dll
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/Task 001 (3).pdb
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/Task 001 (3).genruntimeconfig.cache
+/Users/anatolysmorodin/Desktop/Block-3 Tasks/LESSON-3-/Task 001 (3)/obj/Debug/net7.0/ref/Task 001 (3).dll
